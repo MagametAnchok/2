@@ -1,0 +1,22 @@
+#main-aside-wrapper {
+  background-color:  #5067d2;
+}
+
+
+#cont {
+    padding: 47px;
+    text-align: center;
+  background-color: #bfc1d8;
+  width: 35rem;
+}
+
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+footer{
+    background-color:  #5067d2;
+    height: 20px;
+}
